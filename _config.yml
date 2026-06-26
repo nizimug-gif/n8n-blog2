@@ -1,4 +1,4 @@
-title: "🥠Nizi의 AI 블로그"          # ← 블로그 이름으로 변경하세요
+title: "🥠Nizid의 AI 블로그"          # ← 블로그 이름으로 변경하세요
 description: "n8n + Solar AI가 자동 생성하는 블로그"
 lang: ko
 permalink: /posts/:year/:month/:day/:slug/
